@@ -36,5 +36,5 @@
   </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingar)](https://github.com/agustingar/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingar&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingar&show_icons=true&theme=dark)
