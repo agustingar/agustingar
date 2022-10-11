@@ -40,3 +40,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agustingar&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agustingar&theme=dark)](https://github.com/agustingar/github-readme-stats) 
+
+
+<!--END_SECTION:waka-->
+ 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  Let's get connected:
+
+<a href="[https://www.linkedin.com/in/agustingarcia](https://www.linkedin.com/in/agustin-garcia-llorca-978984171)">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<hr/>
