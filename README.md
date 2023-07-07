@@ -50,9 +50,6 @@
            <a href="https://wakatime.com/@3516f959-9070-4a6b-a8cd-9a0657e01ea0"><img src="https://wakatime.com/badge/user/3516f959-9070-4a6b-a8cd-9a0657e01ea0.svg" alt="2023" /></a>
         </div>
         </td>
- 
-        </div>
-        </td>
       </tr>
     </tbody>
   <table>
