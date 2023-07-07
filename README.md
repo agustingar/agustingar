@@ -41,7 +41,29 @@
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> 
   </p>
-
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td style="border: none !important;">
+        <div>
+           <a href=https://wakatime.com/share/@agustingar/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg target="_blank">
+            <img src="https://wakatime.com/share/@agustingar/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="Agustin's GitHub Stats" vertical-align="middle"/>
+            </a>
+        </div>
+        </td>
+        <td style="border: none !important;">
+        <div >
+         <a href="https://wakatime.com/share/@agustingar/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
+            <img src="https://wakatime.com/share/@agustingar/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="agustin's GitHub Stats" vertical-align="middle"/>
+         </a>
+        </div>
+        </td>
+      </tr>
+    </tbody>
+  <table>
+<div>
+*Click for zoom in* 🔎
 
 ## My Github Stats
 
