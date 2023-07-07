@@ -47,16 +47,10 @@
       <tr>
         <td style="border: none !important;">
         <div>
-           <a href=https://wakatime.com/share/@agustingar/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg target="_blank">
-            <img src="https://wakatime.com/share/@agustingar/e104499e-e2dd-4864-b7d1-d1d4cbc1308b.svg" width="100%" alt="Agustin's GitHub Stats" vertical-align="middle"/>
-            </a>
+           <a href="https://wakatime.com/@3516f959-9070-4a6b-a8cd-9a0657e01ea0"><img src="https://wakatime.com/badge/user/3516f959-9070-4a6b-a8cd-9a0657e01ea0.svg" alt="2023" /></a>
         </div>
         </td>
-        <td style="border: none !important;">
-        <div >
-         <a href="https://wakatime.com/share/@agustingar/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" target="_blank">
-            <img src="https://wakatime.com/share/@agustingar/8a5bf6d9-e5d4-4ec9-aea3-10968a4857d7.svg" width="100%" alt="agustin's GitHub Stats" vertical-align="middle"/>
-         </a>
+ 
         </div>
         </td>
       </tr>
